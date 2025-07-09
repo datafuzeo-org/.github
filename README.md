@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-link-here.com/logo.png" width="160" alt="DataFuzeo logo" />
+  <img src="https://raw.githubusercontent.com/datafuzeo-org/.github/main/assets/logo.jpeg" width="160" alt="DataFuzeo logo" />
 </p>
 
 # 🚀 DataFuzeo – Fueling Business Growth with Data, AI & Automation
